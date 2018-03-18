@@ -1,0 +1,9 @@
+zupa_cebulowa 9,99 zupy normalna cebula maka woda sol pieprz
+spaghetti 22,99 makarony normalna makaron pomidor ser
+tiramisu 17,99 desery normalna mascarpone kakao jajka cukier
+zurek 12,99 zupy normalna kielbasa woda sol pieprz
+sernik 9,99 desery normalna ser cukier jajka maka
+czekoladowiec 12,99 desery normalna czekolada jajka maka cukier
+burger 19,99 dania_obiadowe normalna mieso jajka sol pieprz ser salata bulka
+kebab_na_talerzu 18,99 dania_obiadowe normalna kebab frytki surowka
+zupa_pomidorowa 7,99 dania_dla_dzieci dziecieca pomidory woda sol pieprz kurczak
